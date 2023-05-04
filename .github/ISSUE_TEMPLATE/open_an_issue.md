@@ -2,10 +2,11 @@
 name: Open an issue
 about: Only for actionable issues relevant to this repository.
 title: ''
-labels: need/triage
+labels: ''
 assignees: ''
 
 ---
+
 <!--
 Hello! To ensure this issue is correctly addressed as soon as possible by the IPFS team, please try to make sure:
 
